@@ -71,3 +71,4 @@ const gameLogic = () => {
 
 // Start the game by calling the gameLogic function
 gameLogic();
+
